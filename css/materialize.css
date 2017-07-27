@@ -4272,6 +4272,11 @@ nav .brand-logo {
   padding: 0;
 }
 
+nav .brand-logo .img{
+  vertical-align: middle;
+  margin-left: 10px;
+}
+
 nav .brand-logo.center {
   left: 50%;
   -webkit-transform: translateX(-50%);
