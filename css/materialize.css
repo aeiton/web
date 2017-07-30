@@ -7,6 +7,15 @@
   background-color: #e51c23 !important;
 }
 
+
+.dark-purple{
+  background-color: #272c38 !important;
+}
+
+.deep-purple{
+    background-color: #1e222b !important;
+}
+
 .materialize-red-text {
   color: #e51c23 !important;
 }
@@ -9487,12 +9496,6 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   min-height: 1px;
 }
 
-.dark-purple{
-  background-color: #272c38 !important;
-}
-.deep-purple{
-    background-color: #1e222b !important;
-  }
 .with-bg-size
 {
        background-image: url('https://placeimg.com/1280/980/people');
