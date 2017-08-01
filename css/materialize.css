@@ -10,7 +10,6 @@
 .dark-purple{
   background-color: #272c38 !important;
 }
-
 .deeper-purple{
     background-color: #1e222b !important;
 }
@@ -2155,7 +2154,7 @@
  *    without disabling user zoom.
  */
 html {
-  font-family: sans-serif;
+  font-family: calibri;
   /* 1 */
   -ms-text-size-adjust: 100%;
   /* 2 */
@@ -2274,7 +2273,7 @@ dfn {
  */
 h1 {
   font-size: 2em;
-  margin: 0.67em 0;
+  margin: 0;
 }
 
 /**
@@ -9502,4 +9501,23 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
        height: 100%;
        background-position: center;
        background-size: cover;
+}
+
+.pad150{
+  padding: 80px;
+}
+
+.pad0{
+  padding: 0 0;
+}
+.mar0{
+  margin: 0 0;
+}
+.color-bg{
+
+  background: #267871; /* For browsers that do not support gradients */
+ background: -webkit-linear-gradient(45deg, #136a8a, #267871); /* For Safari 5.1 to 6.0 */
+ background: -o-linear-gradient(45deg, #136a8a, #267871); /* For Opera 11.1 to 12.0 */
+ background: -moz-linear-gradient(45deg, #136a8a, #267871); /* For Firefox 3.6 to 15 */
+ background: linear-gradient(45deg, #136a8a, #267871); /* Standard syntax */
 }
