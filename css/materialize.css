@@ -4922,6 +4922,11 @@ small {
   border-image: linear-gradient(to right, #fc00ff 0%, #00dbde 100%);
   border-image-slice: 1;
 }
+.gradient-top-ulta{
+  border-top: 2px solid transparent;
+  border-image: linear-gradient(to left, #fc00ff 0%, #00dbde 100%);
+  border-image-slice: 1;
+}
 
 .gradient-bottom{
   border-bottom: 2px solid transparent;
