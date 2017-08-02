@@ -9529,3 +9529,4 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
  background: -moz-linear-gradient(45deg, #136a8a, #267871); /* For Firefox 3.6 to 15 */
  background: linear-gradient(45deg, #136a8a, #267871); /* Standard syntax */
 }
+
